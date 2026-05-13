@@ -1,3 +1,3 @@
 <div align="center">
-  <img src="banner.jpg" alt="BroxApp Banner" width="100%">
+  <img src="BroxApp-baner2.png" alt="BroxApp Banner" width="100%">
 </div>
