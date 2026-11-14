@@ -29,7 +29,7 @@ Our technology stack evolves with project requirements and the needs of our clie
 
 - **Frontend:** HTML5, CSS3, JavaScript, TypeScript, React.js, Next.js
 - **Styling:** Tailwind CSS
-- **Backend:** Node.js, PHP, Laravel
+- **Backend:** Node.js, PHP, Laravel, Next.js
 - **Mobile:** Android Development
 - **Animation & Interaction:** GSAP, Framer Motion
 - **Tools & Workflow:** Git, GitHub, Vite, Android Studio
